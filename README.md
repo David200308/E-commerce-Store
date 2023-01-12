@@ -11,6 +11,17 @@ An E-commerce Store with Stripe create by React.JS
 
 ## Used Library
 
-## Member
+```bash
+npm install bootstrap react-bootstrap react express stripe cors
+```
+
+- bootstrap
+- react-bootstrap
+- react
+- express
+- stripe
+- cors
+
+## Creator
 
 - Guanlin Jiang
